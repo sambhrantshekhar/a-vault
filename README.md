@@ -1,1 +1,1 @@
-modShik is the owner of this project..
+Simple Learning Management System as a frontend + backend project.
